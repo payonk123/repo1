@@ -1,0 +1,4 @@
+﻿  lab2_zadanie10.cpp
+C:\Users\ja\Desktop\JiPP\lab2_zadanie10\lab2_zadanie10\lab2_zadanie10.cpp(3,1): warning C4005: "_CRT_SECURE_NO_WARNINGS": ponowna definicja makra
+C:\Users\ja\Desktop\JiPP\lab2_zadanie10\lab2_zadanie10\lab2_zadanie10.cpp(3,1): message : Element „_CRT_SECURE_NO_WARNINGS“ został wcześniej zadeklarowany w wierszu polecenia
+  lab2_zadanie10.vcxproj -> C:\Users\ja\Desktop\JiPP\lab2_zadanie10\x64\Debug\lab2_zadanie10.exe
